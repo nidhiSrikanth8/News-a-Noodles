@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Gradle files
+.gradle/
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor config files
+.idea/
+.vscode/
+.net/
+.AndroidStudio/
+
+# Environment files
+.env
+
+# Logs and history files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.history
+
+# Other files and directories
+*.swp
+*.bak
+*.log
+*.lock
